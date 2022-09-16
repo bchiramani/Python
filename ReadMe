@@ -1,3 +1,5 @@
-Hello, I am learning Python. 
-I will share in this directory all the notebooks I will use
-The first notebook is : Working With Files Notebook
+Hello, I am learning Python, Machine learning, Deeplearning ...
+I will share in this repository all the notebooks that I will use
+Working With Files Notebook: Python notebook that helps learn working with files
+Working with Pandas Notebook: learning about Pandas which is a popular librairy for data analysis
+Linear Regression Notebook : learning about cost function , gradient descent on a house price prediction problem.
